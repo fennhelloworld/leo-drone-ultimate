@@ -34,16 +34,7 @@ LeoDrone Ultimate 是 **Case A: 智能温湿度360°全景运动无人机** —�
 7. **地面站控制** — QGroundControl + Web Dashboard + MAVLink
 8. **完整BOM** — S500碳纤维机架，总成本 ¥2,345-3,555
 
-### 来自 omni-perception-fusion (8项专利)
-
-1. **专利1: 三级频域互补防抖** — 事件相机(μs) + IMU(ms) + 光流(帧级) 频域互补
-2. **专利2: UAV多机协同路径规划** — BSB-SSSP + HDP-TS RRT* + ESDF 四维时空避障
-3. **专利3: 多源异构数据融合** — 因果推理 + 时序知识图谱 + LLM 先验
-4. **专利4: 边缘AI语音盒子** — ESP32 + Int4量化 + Distil-Whisper + Piper TTS
-5. **专利5: 智能体协作** — MCP协议 + 辩论式决策 + ReAct + Toolformer
-6. **专利6: 机器人协同控制** — VLA模型 + Sim-to-Real + ACT
-7. **专利7: GOAT+Mamba2混合注意力** — Fourier先验 + Sink绝对位置 + O(N)长序列
-8. **专利8: DeepSeekMoE细粒度专家路由** — 160专家/激活6 + 零训练MoE-Merge
+### 来自 omni-perception-fusion 
 
 ### Case A 特色: 智能温湿度感知
 
